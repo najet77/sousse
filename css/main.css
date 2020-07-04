@@ -1,0 +1,48 @@
+/*.col-6,
+.col-4,
+.col-8 {
+  border: 1px dashed black;
+  min-height: 100px;
+}  pour les bordures */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.flag {
+  width: 100px;
+  height: auto;
+}
+.bg-1 {
+  background-image: url(../img/3.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-2 {
+  background-image: url(../img/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-3 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-4 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.text-gray {
+  color: lightgrey;
+}
+.bg-footer {
+  background-color: #333;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  color: lightgray;
+  text-decoration: none;
+}
