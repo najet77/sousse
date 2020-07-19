@@ -1,0 +1,10 @@
+{
+  "name": "sousse",
+  "version": "1.0.0",
+  "description": "project/html/css/boostrap",
+  "main": "index.html",
+  "repository": "https://github.com/najet77/sousse.git",
+  "author": "najet77 <soussinajet91@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
